@@ -1,1 +1,2 @@
-# docker1
+Для запуска 
+docker-compose up --build
